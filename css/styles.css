@@ -47,3 +47,104 @@ letter-spacing: 0.02em;
 .address-link:focus {
     color: #404BBF;
 }
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+  }
+
+
+ /* -------------HERO------------ */
+
+.hero {
+    background: #2E2F42;
+}
+.hero-title {
+color:  #FFF;
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07; 
+letter-spacing: 0.02em;
+}
+.hero-order-btn {
+ color:  #FFF;
+font-family: inherit;
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5; 
+letter-spacing: 0.04em;
+cursor: pointer;
+}
+/* ----------------------------- */
+
+/* ------------FEATURES----------- */
+.features {
+}
+.features-list {
+}
+.features-item {
+}
+.features-subtitle {
+
+color:  #2E2F42;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2; 
+letter-spacing: 0.05em;
+}
+.features-item-text {
+color:  #434455;
+font-size: 16px;
+line-height: 1.5; 
+letter-spacing: 0.02em;
+}
+
+/* ----------------------------- */
+
+/* ------------TEAM----------- */
+.team {
+}
+.team-title {
+    color:  #2E2F42;
+text-align: center;
+font-size: 36px;
+font-weight: 700;
+line-height: 1.12; 
+letter-spacing: 0.02em;
+text-transform: capitalize;
+}
+.team-list {
+}
+.team-item {
+}
+.team-img {
+}
+.team-subtitle {
+    color:  #2E2F42;
+text-align: center;
+font-size: 20px
+font-weight: 500;
+line-height: 1.2; 
+letter-spacing: 0.05em;
+}
+.team-text {
+    color:  #434455;
+text-align: center;
+font-size: 16px
+line-height: 1.5; 
+letter-spacing: 0.02em;
+}
+
+/* ----------------------------- */
+
+/* ----------PORTFOLIO--------- */
