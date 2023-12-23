@@ -95,7 +95,7 @@ cursor: pointer;
 }
 
 .hero-order-btn:hover {
-    color: #404BBF;
+    background-color: #404BBF;
 }
 
 .hero-order-btn:focus {
